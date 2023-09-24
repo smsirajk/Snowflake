@@ -1,0 +1,1 @@
+Stored procedures allow you to write procedural code that executes business logic by combining multiple SQL statements. In a stored procedure, you can use programmatic constructs to perform branching and looping.
